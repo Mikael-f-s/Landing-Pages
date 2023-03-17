@@ -1,2 +1,2 @@
 # Landing-Pages
-Repository for landing pages
+Repository for completed projects of landing pages
